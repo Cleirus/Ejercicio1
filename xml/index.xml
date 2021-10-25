@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personajes>
+
+<personaje>
+<nombre>Superman</nombre>
+<imagenurl></imagenurl>
+<descripcion>Mas rapido que una bala, mas fuerte que un tren... El último hijo de Krypton fue enviado a la Tierra para escapar de la destrucción de su mundo. Ahí, fue adoptado por una pareja agricultora en Kansas, y llegó a convertirse en el superhéroe más poderoso y respetado de la Tierra, Superman.</descripcion>
+</personaje>
+
+<personaje>
+<nombre>Wonder woman</nombre>
+<imagenurl></imagenurl>
+<descripcion>Diana es una semi-diosa hija de la Reina Amazona y el dios griego Zeus. ella fue entrenada por las Amazonas y el dios griego de la guerra Ares. Armada con armas mágicas y una de los guerreras más formidables de la Tierra, lucha para proteger a los inocentes. Actualmente es parte de la Liga de la Justicia.</descripcion>
+</personaje>
+
+<personaje>
+<nombre>Batman</nombre>
+<imagenurl></imagenurl>
+<descripcion>Después de ver a sus padres asesinados frente a sus ojos, el joven Bruce Wayne juró venganza contra los criminales, disfrazado como una temible criatura por las noches, Batman.</descripcion>
+</personaje>
+
+<personaje>
+<nombre>Linterna verde</nombre>
+<imagenurl></imagenurl>
+<descripcion>Cuando el piloto/aviador Hal Jordan encuentra uno de los anillos de Green Lantern Corps caídos en la Tierra, fue transportado hacia el Planeta Oa y se convirtió en el Green Lantern del sector donde se encuentra la Tierra.</descripcion>
+</personaje>
+
+<personaje>
+<nombre>Flash</nombre>
+<imagenurl></imagenurl>
+<descripcion>Barry Allen tuvo una vida relativamente normal, hasta que en un momento fatídico fue alcanzado por un rayo mientras quedaba sumergido en varios productos químicos, desarrollando una gran velocidad. Usó este poder para convertirse en The Flash, protegiendo a Central City y convirtiéndose en miembro fundador y pilar de la Liga de la Justicia.</descripcion>
+</personaje>
+
+</personajes>
